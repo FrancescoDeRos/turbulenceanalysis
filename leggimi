@@ -1,13 +1,17 @@
 Autore: Francesco De Rose - 27/07/2025 Cosenza (CS).
-Questa cartella raccoglie il codice utilizzato per realizzare la presentazione "Study and data analysis of turbulence numerical models in mid-atmospheric boundary layer.", per una parte delle attività svolte per il Percorso di Eccellenza, svolto nell'A.A. 24/25. Caricato a Settembre 2025.
+Questa cartella raccoglie il codice utilizzato per realizzare la presentazione "Study and data analysis of turbulence numerical models in mid-atmospheric boundary layer.",
+per una parte delle attività svolte per il Percorso di Eccellenza, svolto nell'A.A. 24/25. Caricato a Settembre 2025.
 ----
 i risultati del fit lineare sono riportati in up/results_fit.txt assieme alla procedura riportata con commenti in ogni cella nel .ipynb nella stessa cartella.
 E' stata seguita alla lettera la procedura riportata su Alberti-2024 e Faccenda-a,b cercando online e facendo uso dei forum di xarray,seaborn_sns, stack-exchange e climate reanalyzer.
 I risultati dell'analisi del dataset .nc è riportata in figures/anys/
 Per qualsiasi incongruenza legata alla compilazione con texmaker o altro contattare derose.fr@gmail.com
 per poter visualizzare i video presenti nel ./prsntz/main.pdf occorre rispettare i percorsi delle cartelle una volta scaricata la directory principale.
-se ci dovessero essere problemi tutte le immagini e i comandi con cui sono stati composti i video via terminale sono riportati rispettivamente in figures/commands-readme e figures/ccont/ figures/atrend/. Le figure unite insieme sono state realizzate con libreoffice --draw 
-- ./prsntz/up/h.press.analogue.ipynb notebook per leggere e creare figure in base al file .netcdf Alberti, T., Faranda, D., Rapella, L., Coppola, E., Lepreti, F., Dubrulle, B., & Carbone, V. (2024). Impacts of changing atmospheric circulation patterns on aviation turbulence over Europe. Geophysical Research Letters, 51, e2024GL111618. https://doi.org/10.1029/2024GL111618.
+se ci dovessero essere problemi tutte le immagini e i comandi con cui sono stati composti i video via terminale sono riportati rispettivamente in figures/commands-readme e figures/ccont/ 
+figures/atrend/. Le figure unite insieme sono state realizzate con libreoffice --draw 
+- ./prsntz/up/h.press.analogue.ipynb notebook per leggere e creare figure in base al file .netcdf Alberti, T., Faranda, D., Rapella, L., Coppola, E., Lepreti, F., Dubrulle, B., 
+& Carbone, V. (2024). Impacts of changing atmospheric circulation patterns on aviation turbulence over Europe. Geophysical Research Letters, 51, e2024GL111618. 
+https://doi.org/10.1029/2024GL111618.
 
 Per maggiori informazioni sulle figure aprire il notebook, ad esempio:
 $cd /.../venv/ && python3 -m venv venv && source venv/bin/activate && jupyter lab --notebook-dir=$HOME
