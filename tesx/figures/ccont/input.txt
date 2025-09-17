@@ -1,0 +1,11 @@
+file 'cplot_1980-02-07_12:00UTC.png'
+duration 1.4
+file 'cplot_1989-02-07_12:00UTC.png'
+duration 1.4
+file 'cplot_1998-02-07_12:00UTC.png'
+duration 1.4
+file 'cplot_2007-02-07_12:00UTC.png'
+duration 1.4
+file 'cplot_2016-02-07_12:00UTC.png'
+duration 1.4
+file 'cplot_2025-02-07_12:00UTC.png'
