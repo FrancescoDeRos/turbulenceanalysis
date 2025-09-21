@@ -1,5 +1,5 @@
 # turbulenceanalysis
-Excellence path work about analysis of ERA5 dataset based on Albert2024 article.
+Excellence path work about analysis of ERA5 dataset based on Alberti2024 article.
 ---------------------
 ### image
 ![alt text](https://github.com/FrancescoDeRos/turbulenceanalysis/blob/main/tesx/ccont/cplot_2025-02-07%2012%3A00%20UTC.png?raw=true)
